@@ -1,0 +1,5 @@
+@import url(./Settings.css);
+@import url(./slider.css);
+@import url(./Assets/Style/CSS/Mobile/Mobile.css) only screen and (max-width:768px);
+@import url(./Assets/Style/CSS/Tablet/tablet.css) only screen and (max-width:1200px) and (min-width:768px);
+@import url(./Assets/Style/CSS/Desktop/desktop.css)only screen and (min-width:1200px);

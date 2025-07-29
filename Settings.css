@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: IMDBFont;
+}
+@font-face{
+    font-family: IMDBFont;
+    src: url(./Assets/Fonts/cm9ib3Rv._TTW_.woff2);
+    src: url(./Assets/Fonts/cm9ib3RvQm9sZA._TTW_.woff2);
+    src: url(./Assets/Fonts/cm9ib3RvTWVk._TTW_.woff2);
+    src: url(./Assets/Fonts/Roboto-Bold.eot);
+    src: url(./Assets/Fonts/Roboto-Bold.ttf);
+    src: url(./Assets/Fonts/Roboto-Bold.woff);
+    src: url(./Assets/Fonts/Roboto-Regular.eot);
+    src: url(./Assets/Fonts/Roboto-Regular.ttf);
+    src: url(./Assets/Fonts/Roboto-Regular.woff);
+
+}
